@@ -1,4 +1,4 @@
-import 'SetterDemo.dart';
+import 'SetterDemo1.dart';
 
 void main(){
 
@@ -10,7 +10,7 @@ void main(){
   // obj.setstr("Om");
 
   // ============= way2 ==========
-  
+
   obj.setX=20;
   obj.setSal=2.0;
   obj.setstr="Om";
