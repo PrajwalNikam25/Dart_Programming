@@ -9,6 +9,7 @@ class Parent{
   void p(){
 
     print(i);
+    print(i);
     print(a);
   }
 
